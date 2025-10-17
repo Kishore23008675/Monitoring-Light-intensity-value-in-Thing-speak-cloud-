@@ -151,10 +151,11 @@ void loop()
 ```
 # CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-10-10 at 11 48 56_6cbbcff8](https://github.com/user-attachments/assets/637ddddd-9e6e-4df2-9216-00c28c5ac13b)
+<img width="1557" height="826" alt="Screenshot 2025-10-17 115315" src="https://github.com/user-attachments/assets/f726ec6b-4e84-4053-99ec-87cd9a32cf09" />
 
 # OUTPUT:
-<img width="1597" height="782" alt="Screenshot 2025-10-10 114355" src="https://github.com/user-attachments/assets/6ab04b8d-6250-4dd6-ac83-b2740ef203f2" />
 <img width="1919" height="994" alt="Screenshot 2025-10-10 114415" src="https://github.com/user-attachments/assets/e3b3d1dd-e14a-4ffa-b4af-4171faa41e42" />
+
 
 
 # RESULT:
